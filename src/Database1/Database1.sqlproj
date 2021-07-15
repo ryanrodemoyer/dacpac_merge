@@ -61,6 +61,7 @@
   <ItemGroup>
     <Build Include="Tables\Podcasts.sql" />
     <Build Include="PodcastsUpsert.sql" />
+    <Build Include="Tables\Users.sql" />
   </ItemGroup>
   <ItemGroup>
     <PostDeploy Include="Script.PostDeployment1.sql" />
