@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="39fc4d1d-a25a-4ad5-b8f3-8c7722ab3225" ChangeDateTime="06/22/2021 18:01:15">
+    <Property Name="ElementName" Value="[dbo].[YoutubeChannels].[IX_YoutubeChannels_Column]" />
+    <Property Name="ElementType" Value="SqlIndex" />
+    <Property Name="ParentElementName" Value="[dbo].[YoutubeChannels]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[IX_YoutubeChannels_ChannelName]" />
+  </Operation>
+</Operations>
